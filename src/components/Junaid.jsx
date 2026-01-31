@@ -5,8 +5,13 @@ const Junaid = () => {
     <div>
       <h1>junaidkhan6877</h1>
 <h2>my self muhammad junaid</h2>
+
+<input type="text" placeholder='search option ' />
+<button >Add Calborater </button>
+<button type='button'>CDM</button>
     
     </div>
+    
   )
 }
 

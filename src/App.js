@@ -13,7 +13,7 @@ function App() {
       <Junaid/>
       <Zain/>
       <Counting/>
-
+ 
     </div>
   );
 }
