@@ -8,7 +8,7 @@ const Junaid = () => {
 
 <input type="text" placeholder='search option ' />
 <button >Add Calborater </button>
-
+<button type='button'>CDM</button>
     
     </div>
     
