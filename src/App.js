@@ -1,21 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
 import LearnUseState from './components/LearnUseState';
-<<<<<<< Updated upstream
-import junaid from './components/junaid';
-=======
+import Junaid from './components/Junaid';
 import Zain from './components/Zain';
->>>>>>> Stashed changes
+import Counting from './components/AS/Counting';
+
 
 function App() {
   return (
     <div className="App">
       <LearnUseState/>
-<<<<<<< Updated upstream
       <Junaid/>
-=======
       <Zain/>
->>>>>>> Stashed changes
+      <Counting/>
+
     </div>
   );
 }
