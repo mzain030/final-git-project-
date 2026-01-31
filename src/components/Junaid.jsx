@@ -1,6 +1,6 @@
 import React from 'react'
 
-const junaid = () => {
+const Junaid = () => {
   return (
     <div>
       <h1>junaidkhan6877</h1>
@@ -10,4 +10,4 @@ const junaid = () => {
   )
 }
 
-export default junaid
+export default Junaid
